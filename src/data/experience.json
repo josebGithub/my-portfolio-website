@@ -2,6 +2,18 @@
     "data" : [
       {
         "id": 1,
+        "className":  "vertical-timeline-element--work",
+        "contentStyle": {"background": "rgb(96, 162, 196)", "color": "#fff"},
+        "contentArrowStyle": {"borderRight": "15px solid rgb(192, 226, 244)" },
+        "iconStyle": {"background": "rgb(16, 204, 82)", "color": "#fff" },
+        "icon": "MdWorkOutline",
+        "date": "Sept 2025 - Current",
+        "title": "Software Tester",
+        "institution":"Test IO",
+        "description": "Execute exploratory and functional testing on websites in diﬀerent devices.Identify, document, and report bugs (functional, content, and visual).Provide clear steps to reproduce issues with screenshots and screen recordings.Ensure adherence to Test IO guidelines for bug severity, scope, and reporting."
+      },
+      {
+        "id": 2,
         "className":  "vertical-timeline-element--education",
         "contentStyle": {"background": "rgb(96, 162, 196)", "color": "#fff"},
         "contentArrowStyle": {"borderRight": "15px solid rgb(192, 226, 244)" },
@@ -13,7 +25,7 @@
         "description": " As a master student in Software Development, I did many projects throughout my academic years with new technologies, skills and programming languages as well as developed expertise in agile software development techniques."
       },
       {
-        "id": 2,
+        "id": 3,
         "className": "vertical-timeline-element--work",
         "contentStyle": {"background": "rgb(96, 162, 196)", "color" : "#fff"},
         "contentArrowStyle": { "borderRight": "15px solid  rgb(192, 226, 244)" },
@@ -25,7 +37,7 @@
         "description": " Finished the following courses from Coursera:\n1. Introduction to Software Testing - University of Minnesota.\n2. Programming Mobile Applications for Android Handheld Systems - Univeresity of Maryland.\n3. Computing with Data Analysis - John Hopkins University\n4. An Introduction to Interactive Programming in Python - Rice University"
       },
       {
-        "id": 3,
+        "id": 4,
         "className": "vertical-timeline-element--work",
         "contentStyle": {"background": "rgb(96, 162, 196)", "color" : "#fff", "fontFamily": "Poppins"},
         "contentArrowStyle": { "borderRight": "15px solid  rgb(192, 226, 244)" },
@@ -37,7 +49,7 @@
         "description": "Identified and filled job openings and keeped records of applications. Communicated with the candidates and helped them to fill in the job openings. Developed and implemented the add-on google scripts for the management."
       },
       {
-        "id": 4,
+        "id": 5,
         "className": "vertical-timeline-element--work",
         "contentStyle": {"background": "rgb(96, 162, 196)", "color" : "#fff", "fontFamily": "Poppins"},
         "contentArrowStyle": { "borderRight": "15px solid  rgb(192, 226, 244)" },
@@ -49,7 +61,7 @@
         "description": "Designed and developed automated tools for the design group and product verification team. Designed and developed test automation tool for the web-based administration system of a carrier grade IP telephony service. Developed test plans and procedures to WebAdmin with different web traffic to provide comparative platform performance, performance testing and product scalability characterization. Analyst the results from the tests and generate reports to the management."
       },
       {
-        "id": 5,
+        "id": 6,
         "className": "vertical-timeline-element--work",
         "contentStyle": {"padding": "1rem,1rem,1rem,1rem", "background": "rgb(96, 162, 196)", "color": "#fff", "fontFamily": "Poppins"},
         "contentArrowStyle": { "borderRight": "15px solid  rgb(192, 226, 244)" },
@@ -61,7 +73,7 @@
         "description": "A project contracted with Environmental Canada. Recoded the application from ground-zero. Gathered, analyzed user requirements, added features and enhancements to apply user requirements. Deployed and installed the application in different platforms."
       },
       {
-        "id": 6,
+        "id": 7,
         "className": "vertical-timeline-element--work",
         "contentStyle": {"background": "rgb(96, 162, 196)", "color": "#fff", "fontFamily": "Poppins"},
         "contentArrowStyle": { "borderRight": "15px solid  rgb(192, 226, 244)" },
@@ -73,7 +85,7 @@
         "description": "1. Collected rquirements from users, analyzed them and applied them to the applications. Analyzed testing requirements and organized them into the documents. Wrote and executed test cases. Imported data and completed the data conversion from one platform to another.\n2. Converted the Inventory System to Year2000 compliance. Provided testing procedures and implemented the testing procedures for checking the convection.\n3. Solved the Year 2000 problem for the system and solved the problem of porting data in different platforms."
       },
       {
-        "id": 7,
+        "id": 8,
         "className": "vertical-timeline-element--work",
         "contentStyle": {"background": "rgb(96, 162, 196)", "color": "#fff", "fontFamily": "Poppins"},
         "contentArrowStyle": { "borderRight": "15px solid  rgb(192, 226, 244)" },
@@ -85,7 +97,7 @@
         "description": "Details is in my resume. Had worked in two banks in Hong Kong. Mainly designed , coded, specified, documented and supported the banking system."
       },
       {
-        "id": 8,
+        "id": 9,
         "className": "vertical-timeline-element--education",
         "contentStyle": {"background": "rgb(96, 162, 196)", "color": "#fff", "fontFamily": "Poppins"},
         "contentArrowStyle": { "borderRight": "15px solid  rgb(192, 226, 244)" },
